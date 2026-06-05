@@ -1,21 +1,17 @@
 {
-  "name": "전기기능장 필기기출",
-  "short_name": "전기기능장필기",
+  "name": "전기기능장 필기 기출",
+  "short_name": "전기기능장",
+  "description": "전기기능장 필기 기출문제 해설 학습 앱 (2014~2018)",
   "start_url": "/myapp/",
   "scope": "/myapp/",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#ffffff",
+  "orientation": "portrait",
+  "theme_color": "#2256c7",
+  "background_color": "#f0f2f7",
+  "lang": "ko",
+  "categories": ["education"],
   "icons": [
-    {
-      "src": "icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
   ]
 }

@@ -5,8 +5,12 @@ const CORE_FILES = [
   "./",
   "./index.html",
   "./manifest.json",
-  "./icon-192.png",
-  "./icon-512.png"
+  "./app.js",
+  "./calc.js",
+  "./pad.js",
+  "./styles.css",
+  "./icons/icon-192.png",
+  "./icons/icon-512.png"
 ];
 
 // 설치: 핵심 파일을 미리 폰에 저장
